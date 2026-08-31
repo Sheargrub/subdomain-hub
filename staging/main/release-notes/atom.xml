@@ -30,6 +30,7 @@
 <li class="">Community Impact: Updated statistics (<a href="https://github.com/CIROH-UA/ciroh_hub/pull/177" target="_blank" rel="noopener noreferrer" class="">#177</a>)</li>
 <li class="">Data Management documentation: Updated info regarding Google Cloud and Azure Blobs on  page (<a href="https://github.com/CIROH-UA/ciroh_hub/pull/178" target="_blank" rel="noopener noreferrer" class="">#178</a>, <a href="https://github.com/CIROH-UA/ciroh_hub/pull/179" target="_blank" rel="noopener noreferrer" class="">#179</a>)</li>
 <li class="">Confluence page: Added two newly-announced sessions (<a href="https://github.com/CIROH-UA/ciroh_hub/pull/182" target="_blank" rel="noopener noreferrer" class="">#182</a>)</li>
+<li class="">Upgraded to Docusaurus 3.10.2 (<a href="https://github.com/CIROH-UA/ciroh_hub/pull/183" target="_blank" rel="noopener noreferrer" class="">#183</a>)</li>
 </ul>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="bugfixes">Bugfixes<a href="http://ciroh.org/staging/main/release-notes/v20260828#bugfixes" class="hash-link" aria-label="Direct link to Bugfixes" title="Direct link to Bugfixes" translate="no">​</a></h2>
 <ul>
