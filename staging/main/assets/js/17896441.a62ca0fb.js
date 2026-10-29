@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([["70106"],{42242(e,t,s){s.d(t,{A:()=>a});var n=s(74848);s(96540);var u=s(40919);function a(e){return(0,n.jsx)("div",{style:{display:"flex",alignItems:"flex-start",alignContent:"flex-start",justifyContent:"space-between"},children:(0,n.jsx)(u.A,{...e})})}}}]);
