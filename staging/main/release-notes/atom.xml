@@ -2,11 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ciroh.org/staging/main/release-notes</id>
     <title>CIROH Hub Blog</title>
-    <updated>2026-09-14T00:00:00.000Z</updated>
+    <updated>2026-10-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://ciroh.org/staging/main/release-notes"/>
     <subtitle>CIROH Hub Blog</subtitle>
     <icon>http://ciroh.org/staging/main/img/logos/CIROH_Hub_logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[10-29-2026 Release Notes]]></title>
+        <id>http://ciroh.org/staging/main/release-notes/v20261029</id>
+        <link href="http://ciroh.org/staging/main/release-notes/v20261029"/>
+        <updated>2026-10-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Major CIROH Hub update for October!]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="blog-posts-and-news-updates">Blog posts and news updates<a href="http://ciroh.org/staging/main/release-notes/v20261029#blog-posts-and-news-updates" class="hash-link" aria-label="Direct link to Blog posts and news updates" title="Direct link to Blog posts and news updates" translate="no">​</a></h2>
+<ul>
+<li class="">Community NextGen News update: October 2026 Release (<a href="https://github.com/CIROH-UA/ciroh_hub/pull/210" target="_blank" rel="noopener noreferrer" class="">#210</a>)</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="new-content">New Content<a href="http://ciroh.org/staging/main/release-notes/v20261029#new-content" class="hash-link" aria-label="Direct link to New Content" title="Direct link to New Content" translate="no">​</a></h2>
+<ul>
+<li class="">Research Portal pages that pull from HydroShare now support on-site resource editing (<a href="https://github.com/CIROH-UA/ciroh_hub/pull/203" target="_blank" rel="noopener noreferrer" class="">#203</a>)</li>
+<li class="">Publications page now offers weekly and monthly mailing lists (<a href="https://github.com/CIROH-UA/ciroh_hub/pull/204" target="_blank" rel="noopener noreferrer" class="">#204</a>)</li>
+<li class="">Added feedback button sitewide (<a href="https://github.com/CIROH-UA/ciroh_hub/pull/204" target="_blank" rel="noopener noreferrer" class="">#204</a>)</li>
+<li class="">Extended reports now added to Working Groups page (<a href="https://github.com/CIROH-UA/ciroh_hub/pull/207" target="_blank" rel="noopener noreferrer" class="">#207</a>, <a href="https://github.com/CIROH-UA/ciroh_hub/pull/209" target="_blank" rel="noopener noreferrer" class="">#209</a>)</li>
+<li class="">Added "CIROH Hub (Development)" to Documentation section (<a href="https://github.com/CIROH-UA/ciroh_hub/pull/190" target="_blank" rel="noopener noreferrer" class="">#190</a>)</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="updates">Updates<a href="http://ciroh.org/staging/main/release-notes/v20261029#updates" class="hash-link" aria-label="Direct link to Updates" title="Direct link to Updates" translate="no">​</a></h2>
+<ul>
+<li class="">Improved error handling when Research Portal pages fail to load (#199)[<a href="https://github.com/CIROH-UA/ciroh_hub/pull/199" target="_blank" rel="noopener noreferrer" class="">https://github.com/CIROH-UA/ciroh_hub/pull/199</a>]</li>
+<li class="">Publication submissions now provide a clear success message when completed (#202)[<a href="https://github.com/CIROH-UA/ciroh_hub/pull/202" target="_blank" rel="noopener noreferrer" class="">https://github.com/CIROH-UA/ciroh_hub/pull/202</a>]</li>
+<li class="">Updated Cyberinfrastructure intro with current graphics and branding (#210)[<a href="https://github.com/CIROH-UA/ciroh_hub/pull/210" target="_blank" rel="noopener noreferrer" class="">https://github.com/CIROH-UA/ciroh_hub/pull/210</a>]</li>
+<li class="">Emphasized support email links across Cyberinfrastructure section (#210)[<a href="https://github.com/CIROH-UA/ciroh_hub/pull/210" target="_blank" rel="noopener noreferrer" class="">https://github.com/CIROH-UA/ciroh_hub/pull/210</a>]</li>
+<li class="">Added fallback thumbnail for HydroShare resources (#211)[<a href="https://github.com/CIROH-UA/ciroh_hub/pull/211" target="_blank" rel="noopener noreferrer" class="">https://github.com/CIROH-UA/ciroh_hub/pull/211</a>]</li>
+</ul>
+]]></content>
+        <category label="Release Notes" term="Release Notes"/>
+        <category label="CIROH Hub" term="CIROH Hub"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[09-14-2026 Release Notes]]></title>
         <id>http://ciroh.org/staging/main/release-notes/v20260914</id>
@@ -424,31 +454,6 @@ As such, this and all prior release notes refer to DocuHub changes and are retai
 <li class="">Minor content adjustments to NWM BigQuery page (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/488" target="_blank" rel="noopener noreferrer" class="">#488</a>)</li>
 <li class="">Minor content adjustments to Services landing page (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/487" target="_blank" rel="noopener noreferrer" class="">#487</a>)</li>
 <li class="">Adjusted content of HydroShare documentation (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/482" target="_blank" rel="noopener noreferrer" class="">#482</a>)</li>
-</ul>
-]]></content>
-        <category label="Release Notes" term="Release Notes"/>
-        <category label="CIROH Hub" term="CIROH Hub"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10-01-2025 Release Notes]]></title>
-        <id>http://ciroh.org/staging/main/release-notes/v20251001</id>
-        <link href="http://ciroh.org/staging/main/release-notes/v20251001"/>
-        <updated>2025-10-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Major CIROH Hub update for October 2025!]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="new-content">New content<a href="http://ciroh.org/staging/main/release-notes/v20251001#new-content" class="hash-link" aria-label="Direct link to New content" title="Direct link to New content" translate="no">​</a></h2>
-<ul>
-<li class="">Reorganized 2i2c documentation, with new content pages for HydroShare integration and available server images (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/479" target="_blank" rel="noopener noreferrer" class="">#479</a>)</li>
-<li class="">Revamped HydroShare documentation to focus on HydroShare itself (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/479" target="_blank" rel="noopener noreferrer" class="">#479</a>)</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="blog-posts-and-news-updates">Blog posts and news updates<a href="http://ciroh.org/staging/main/release-notes/v20251001#blog-posts-and-news-updates" class="hash-link" aria-label="Direct link to Blog posts and news updates" title="Direct link to Blog posts and news updates" translate="no">​</a></h2>
-<ul>
-<li class="">Blog post: <a class="" href="http://ciroh.org/staging/main/blog/science-meeting-2025">"From Research to Impact: CIROH Science Meeting 2025 Resources and Reflections"</a> (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/475" target="_blank" rel="noopener noreferrer" class="">#475</a>)</li>
-<li class="">Blog post: <a class="" href="http://ciroh.org/staging/main/blog/streamflow-data-camera-based-hydrologic-modeling-software">"Focusing on Streamflow Data: New Software for Camera-Based Hydrologic Modeling"</a> (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/474" target="_blank" rel="noopener noreferrer" class="">#474</a>)</li>
-<li class="">News update: September 2025 (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/478" target="_blank" rel="noopener noreferrer" class="">#478</a>)</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="updates">Updates<a href="http://ciroh.org/staging/main/release-notes/v20251001#updates" class="hash-link" aria-label="Direct link to Updates" title="Direct link to Updates" translate="no">​</a></h2>
-<ul>
-<li class="">Added local mirror of NOAA Data Sharing Directive <a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/473" target="_blank" rel="noopener noreferrer" class="">#473</a></li>
 </ul>
 ]]></content>
         <category label="Release Notes" term="Release Notes"/>
